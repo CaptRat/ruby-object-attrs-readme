@@ -64,7 +64,7 @@ A setter method is defined with an `=`, equals sign, appended to the name of the
 
 ### Calling a Setter Method
 
-To call a setter method, you use the `.` notation (dot notation) to call the method and set it equal to a new value.
+To call a setter method, you use the `.` notation (dot notation) to call the method and set it to a new value.
 
 
 ```ruby
