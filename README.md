@@ -40,6 +40,8 @@ We get a no method error! Kanye's name change is just one example of the many co
 
 Our Person class' `#name` method is referred to as a **"getter"** or reader method. It returns information stored in an instance variable. In order to make a person's name attribute writable, we need to define a **"setter"** method.
 
+(In the resource video, Avi refers to "Writer/Reader" methods [as well as "casting" and "hoisting"]. These are the same methodology, yes? If Writer and Reader are more common, perhaps this nomenclature needs updating? )
+
 ### Defining a Setter Method
 
 ```ruby
