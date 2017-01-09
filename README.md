@@ -110,6 +110,7 @@ kanye.instance_variable_get(:@name)
 **Since this is the case, why do we even use instance setter and getter methods?** In fact, there are a number of reasons:
 
 ### Syntactic Vinegar vs. Syntactic Sugar
+[I have heard 'syntactic sugar' phrase bandied about (in regards to Ruby), but no one has explicitly explained what they mean.  Is it not relevant for Flatiron to do so, here?]
 
 The first reason is a stylistic one but it is important. As object-oriented Rubyists, we care about our program's readability and design. The above method is ugly. It places a verb at the end of the method name. The weird grammar of this method should remind us not to use it.
 
